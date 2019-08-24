@@ -1,0 +1,12 @@
+{
+  "build/app.css": "http://localhost:8080/build/app.css",
+  "build/app.js": "http://localhost:8080/build/app.js",
+  "build/runtime.js": "http://localhost:8080/build/runtime.js",
+  "build/vendors~app.css": "http://localhost:8080/build/vendors~app.css",
+  "build/vendors~app.js": "http://localhost:8080/build/vendors~app.js",
+  "build/fonts/slick.woff": "http://localhost:8080/build/fonts/slick.b7c9e1e4.woff",
+  "build/fonts/slick.eot": "http://localhost:8080/build/fonts/slick.ced611da.eot",
+  "build/fonts/slick.ttf": "http://localhost:8080/build/fonts/slick.d41f55a7.ttf",
+  "build/images/ajax-loader.gif": "http://localhost:8080/build/images/ajax-loader.c5cd7f53.gif",
+  "build/images/slick.svg": "http://localhost:8080/build/images/slick.f97e3bbf.svg"
+}

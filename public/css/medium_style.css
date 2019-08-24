@@ -1,0 +1,172 @@
+@media screen and (max-width: 1800px) {
+    .contact-card {
+        margin-top: 30%;
+    }
+}
+
+@media screen and (max-width: 1500px) {
+    .contact-card {
+        margin-top: 40%;
+    }
+
+    .phone-2 {
+       max-width: 100%;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .phone-case-2 {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+
+}
+@media (min-width:1000px) and (max-width: 1436px) {
+    .carte-access {
+        margin-top: 40%
+    }
+}
+@media screen and (max-width: 1130px) {
+    .contact-card {
+        margin-top: 45%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .med-nav {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .carte {
+        display: none;
+    }
+
+    .carte-access {
+        margin-top: 50%
+    }
+
+    .phone-2 {
+        margin-top: 15px;
+    }
+
+    .carouselle, .img-carousel {
+        display: block;
+        height: 400px;
+    }
+
+    .section-contact {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 auto;
+    }
+
+    .contacte {
+        margin-top: 45vh;
+    }
+
+    #basicExampleNav h1 {
+        font-size: 1.9em
+    }
+
+    #mapDiv {
+        margin-top: 200px;
+    }
+
+    .contact-card {
+        margin-top: 50%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .phone-2 {
+        margin-top: 10%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .contact-card {
+        margin-top: 300px;
+    }
+
+    .med-nav {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .med-nav li {
+        font-size: 0.9em;
+    }
+
+    .carte {
+        display: none;
+
+    }
+
+    .carte-access {
+        width: 90%;
+    }
+
+    .container-fluid {
+        margin: 0;
+        padding: 0;
+    }
+
+    .section-contact, .opinions {
+        width: auto;
+    }
+
+    .section-contact > .col-sm-8, .section-contact > .col-sm-12 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .mention {
+        margin-top: 40%
+    }
+
+    .carouselle, .img-carousel {
+        display: block;
+        height: 300px;
+    }
+
+    .contacte {
+        margin-top: 300px
+    }
+
+    .phone {
+        height: auto;
+        width: 100px;
+        margin-top: 100px !important;
+        max-width: 100px;
+    }
+
+    hr {
+        display: none;
+    }
+
+    .phone-case p, .phone-case a {
+        display: none
+    }
+
+    #basicExampleNav h1 {
+        font-size: 1.9em;
+    }
+
+    .fa-phone {
+        margin-left: 8px;
+    }
+
+    #nav1, .carousel-item, .carousel-item > img {
+        max-height: 200px;
+    }
+
+    .title {
+        width: auto;
+        max-height: 50px;
+    }
+}
